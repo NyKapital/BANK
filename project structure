@@ -1,0 +1,28 @@
+nykapital-app/
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── utils/
+│   │   └── App.js
+│   ├── public/
+│   └── package.json
+├── backend/
+│   ├── src/
+│   │   ├── controllers/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   ├── services/
+│   │   ├── utils/
+│   │   └── app.js
+│   ├── config/
+│   └── package.json
+├── database/
+│   └── schema.sql
+├── docs/
+├── tests/
+│   ├── frontend/
+│   └── backend/
+├── .gitignore
+└── README.md
